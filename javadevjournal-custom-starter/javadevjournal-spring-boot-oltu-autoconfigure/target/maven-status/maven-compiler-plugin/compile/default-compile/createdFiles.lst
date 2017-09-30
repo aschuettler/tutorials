@@ -1,0 +1,4 @@
+META-INF/spring-configuration-metadata.json
+com/javadevjournal/autoconfigure/ApacheOltuProperties$Oauth.class
+com/javadevjournal/autoconfigure/ApacheOltuAutoClientConfigurator.class
+com/javadevjournal/autoconfigure/ApacheOltuProperties.class

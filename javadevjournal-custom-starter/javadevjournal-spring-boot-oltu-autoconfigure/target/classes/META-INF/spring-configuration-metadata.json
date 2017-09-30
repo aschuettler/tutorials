@@ -1,0 +1,43 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.javadevjournal.autoconfigure.ApacheOltuProperties",
+      "name": "oltu",
+      "type": "com.javadevjournal.autoconfigure.ApacheOltuProperties"
+    },
+    {
+      "sourceType": "com.javadevjournal.autoconfigure.ApacheOltuProperties",
+      "name": "oltu.oauth",
+      "sourceMethod": "getOauth()",
+      "type": "com.javadevjournal.autoconfigure.ApacheOltuProperties$Oauth"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.javadevjournal.autoconfigure.ApacheOltuProperties$Oauth",
+      "name": "oltu.oauth.authorization-location",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.javadevjournal.autoconfigure.ApacheOltuProperties$Oauth",
+      "name": "oltu.oauth.client-i-d",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.javadevjournal.autoconfigure.ApacheOltuProperties$Oauth",
+      "name": "oltu.oauth.client-secret",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.javadevjournal.autoconfigure.ApacheOltuProperties$Oauth",
+      "name": "oltu.oauth.grant-type",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.javadevjournal.autoconfigure.ApacheOltuProperties$Oauth",
+      "name": "oltu.oauth.redirect-u-r-i",
+      "type": "java.lang.String"
+    }
+  ]
+}
